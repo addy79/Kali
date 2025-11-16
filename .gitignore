@@ -6,3 +6,8 @@ dist/
 /.vscode/
 /.idea/
 coverage/
+android/.gradle/
+android/build/
+android/app/build/
+android/captures/
+android/local.properties
